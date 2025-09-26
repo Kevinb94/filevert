@@ -1,0 +1,17 @@
+[package]
+name = "rust_cli_file_converter"
+version = "0.1.0"
+edition = "2024"
+description = "Fast CLI to convert files between formats"
+license = "MIT"
+repository = "https://github.com/you/yourtool"
+readme = "README.md"
+categories = ["command-line-utilities", "encoding"]
+keywords = ["cli", "convert", "csv", "json"]
+
+
+[[bin]]
+name = "filevert"
+path = "src/main.rs"
+
+[dependencies]
