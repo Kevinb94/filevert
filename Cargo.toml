@@ -1,6 +1,6 @@
 [package]
 name = "rust_cli_file_converter"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "Fast CLI to convert files between formats"
 license = "MIT"
